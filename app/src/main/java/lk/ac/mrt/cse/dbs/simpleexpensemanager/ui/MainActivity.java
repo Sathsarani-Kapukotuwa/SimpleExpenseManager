@@ -70,11 +70,7 @@ public class MainActivity extends AppCompatActivity {
         // expenseManager = new InMemoryDemoExpenseManager();
         /*** END ***/
 
-        try {
-            expenseManager = new PersistentExpenseManager(this);
-        } catch (ExpenseManagerException e) {
-            e.printStackTrace();
-        }
+        expenseManager = new PersistentExpenseManager(this);
 
     }
 
