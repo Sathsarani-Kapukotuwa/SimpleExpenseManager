@@ -1,0 +1,9 @@
+lk.ac.mrt.cse.dbs.simpleexpensemanager.test.app-core-1.4.1-alpha06-0 C:\Users\Hp-Pc\.gradle\caches\transforms-3\0df391eabe3bf98503aeb6c03b2978e7\transformed\core-1.4.1-alpha06\res
+lk.ac.mrt.cse.dbs.simpleexpensemanager.test.app-annotation-experimental-1.1.0-1 C:\Users\Hp-Pc\.gradle\caches\transforms-3\e36aaea95b1e10850d139e7025f21ff0\transformed\annotation-experimental-1.1.0\res
+lk.ac.mrt.cse.dbs.simpleexpensemanager.test.app-androidTest-2 C:\Users\Hp-Pc\AndroidStudioProjects\SimpleExpenseManager\app\build\generated\res\resValues\androidTest\debug
+lk.ac.mrt.cse.dbs.simpleexpensemanager.test.app-androidTest-3 C:\Users\Hp-Pc\AndroidStudioProjects\SimpleExpenseManager\app\build\generated\res\rs\androidTest\debug
+lk.ac.mrt.cse.dbs.simpleexpensemanager.test.app-mergeDebugAndroidTestResources-4 C:\Users\Hp-Pc\AndroidStudioProjects\SimpleExpenseManager\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+lk.ac.mrt.cse.dbs.simpleexpensemanager.test.app-mergeDebugAndroidTestResources-5 C:\Users\Hp-Pc\AndroidStudioProjects\SimpleExpenseManager\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+lk.ac.mrt.cse.dbs.simpleexpensemanager.test.app-merged_res-6 C:\Users\Hp-Pc\AndroidStudioProjects\SimpleExpenseManager\app\build\intermediates\merged_res\debugAndroidTest
+lk.ac.mrt.cse.dbs.simpleexpensemanager.test.app-androidTest-7 C:\Users\Hp-Pc\AndroidStudioProjects\SimpleExpenseManager\app\src\androidTest\res
+lk.ac.mrt.cse.dbs.simpleexpensemanager.test.app-androidTestDebug-8 C:\Users\Hp-Pc\AndroidStudioProjects\SimpleExpenseManager\app\src\androidTestDebug\res

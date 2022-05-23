@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<testsuite name="lk.ac.mrt.cse.dbs.simpleexpensemanager.ApplicationTest" tests="3" failures="0" errors="0" skipped="0" time="1.484" timestamp="2022-05-23T10:42:51" hostname="localhost">
+  <properties>
+    <property name="device" value="Pixel_3_API_27(AVD) - 8.1.0" />
+    <property name="flavor" value="" />
+    <property name="project" value=":app" />
+  </properties>
+  <testcase name="testExpenseTransactions" classname="lk.ac.mrt.cse.dbs.simpleexpensemanager.ApplicationTest" time="0.18" />
+  <testcase name="testIncomeTransactions" classname="lk.ac.mrt.cse.dbs.simpleexpensemanager.ApplicationTest" time="0.196" />
+  <testcase name="testAddAccount" classname="lk.ac.mrt.cse.dbs.simpleexpensemanager.ApplicationTest" time="0.072" />
+</testsuite>

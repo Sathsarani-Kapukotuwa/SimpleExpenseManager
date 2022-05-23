@@ -16,9 +16,7 @@
 
 package lk.ac.mrt.cse.dbs.simpleexpensemanager;
 
-import android.app.Application;
 import android.content.Context;
-import android.test.ApplicationTestCase;
 
 import androidx.test.core.app.ApplicationProvider;
 
@@ -31,7 +29,6 @@ import java.util.List;
 
 import lk.ac.mrt.cse.dbs.simpleexpensemanager.control.ExpenseManager;
 import lk.ac.mrt.cse.dbs.simpleexpensemanager.control.PersistentExpenseManager;
-import lk.ac.mrt.cse.dbs.simpleexpensemanager.control.exception.ExpenseManagerException;
 import lk.ac.mrt.cse.dbs.simpleexpensemanager.data.exception.InvalidAccountException;
 import lk.ac.mrt.cse.dbs.simpleexpensemanager.data.model.ExpenseType;
 
